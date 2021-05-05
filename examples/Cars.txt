@@ -1,0 +1,5 @@
+BMW,2013,10000,13900,Germany,245,no,1
+Mercedes,2014,20000,22900,Germany,345,no,2
+Tesla,2017,10000,42900,America,445,yes,3
+Ford,1999,12000,17900,America,345,no,4
+Toyota,2015,20000,12900,Japan,245,no,5
